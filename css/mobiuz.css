@@ -1,0 +1,42 @@
+.pabs{
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 85px;
+    left: 417px;
+    background-color: white;
+    border-radius: 50%;
+}
+.pabs2{
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 85px;
+    left: 450px;
+    background-color: white;
+    border-radius: 50%;
+}
+.bgc{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: white;
+}
+.ml{
+    border-radius: 10px;
+}
+.sty{
+    position: absolute;
+    top: 10px;
+    left: 40px;
+    font-size: xx-small;
+    border-bottom: 1px solid red;
+    color: white;
+    font-weight: bold;
+}
+.btnsty{
+    line-height: 0;
+}
+.cls{
+    margin-top: -3px;
+}
